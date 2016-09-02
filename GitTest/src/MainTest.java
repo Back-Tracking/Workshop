@@ -10,7 +10,7 @@ public class MainTest {
 		System.out.println("테스트3");
 		System.out.println("테스트4");
 		System.out.println("아싸");
-		System.out.println("다른 사람이랑 할때는 주의하자");
+		System.out.println("다른 사람이랑 할때는 주의하");
 	}
 
 }
